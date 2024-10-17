@@ -1,16 +1,11 @@
 # bidding_app
 
-A new Flutter project.
+This app does not really do anything.
 
-## Getting Started
+## What is this?
 
-This project is a starting point for a Flutter application.
+This project is just an app with a user interface, two major screens, includes darkmode, optimized for big screens (tablets, etc).
 
-A few resources to get you started if this is your first Flutter project:
+### It is just for learning
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you 😊
